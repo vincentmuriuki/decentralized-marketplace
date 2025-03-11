@@ -18,7 +18,7 @@
   "dependencies": {
     "b4a": "^1.6.7",
     "bare-process": "^4.0.0",
-    "hyperbee": "^2.21.2",
+    "hyperbee": "^2.21.3",
     "hypercore": "^10.38.2",
     "hypercore-crypto": "^3.4.2",
     "hyperdht": "^6.20.1",
