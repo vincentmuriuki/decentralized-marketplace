@@ -21,7 +21,7 @@
     "hyperbee": "^2.21.2",
     "hypercore": "^10.38.2",
     "hypercore-crypto": "^3.4.2",
-    "hyperdht": "^6.20.1",
+    "hyperdht": "^6.20.5",
     "hyperswarm": "^4.8.4",
     "winston": "^3.17.0"
   }
